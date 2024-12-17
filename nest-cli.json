@@ -90,6 +90,15 @@
       "compilerOptions": {
         "tsConfigPath": "apps/mail-trigger/tsconfig.app.json"
       }
+    },
+    "organisation": {
+      "type": "application",
+      "root": "apps/organisation",
+      "entryFile": "main",
+      "sourceRoot": "apps/organisation/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/organisation/tsconfig.app.json"
+      }
     }
   }
 }
